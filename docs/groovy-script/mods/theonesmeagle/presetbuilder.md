@@ -11,7 +11,7 @@ source_code_link: "https://github.com/strubium/TheOneSmeagle/blob/1.12/src/main/
 Add or apply a 'Preset' that can change the look of the probe's UI, Presets can be selectable in the Probe Note
 
 :::::::::: info Warning {id="warning"}
-Adding more that 8 (Including the default ones, will break the Probe Notes UI) 
+Adding more than 8 (Including the default ones), will break the Probe Notes UI
 ::::::::::
 
 ## Identifier
