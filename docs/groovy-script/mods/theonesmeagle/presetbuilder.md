@@ -95,3 +95,17 @@ def newPreset =  new PresetBuilder()
     ```groovy:no-line-numbers
     PresetBuilder.removeAll()
     ```
+
+- Remove all presets 
+
+    ```groovy:no-line-numbers
+    PresetBuilder.removePresetByName(String)
+    ```
+
+:::::::::: details Example {open id="example"}
+```groovy:no-line-numbers
+PresetBuilder.removePresetByName("Default")
+PresetBuilder.removeAll()
+```
+
+::::::::::
